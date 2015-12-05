@@ -1,5 +1,7 @@
 <?php
 
+namespace Bangpound\Kernel;
+
 trait ClassBasedNameTrait
 {
     public function getName()

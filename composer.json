@@ -2,6 +2,11 @@
     "name": "bangpound/kernel-traits",
     "description": "Symfony kernel traits",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bangpound\\Kernel\\": ""
+        }
+    },
     "authors": [
         {
             "name": "Benjamin Doherty",

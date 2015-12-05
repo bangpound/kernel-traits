@@ -1,5 +1,7 @@
 <?php
 
+namespace Bangpound\Kernel;
+
 trait YamlEnvironmentTrait
 {
     /**
