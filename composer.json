@@ -1,5 +1,7 @@
 {
     "name": "bangpound/kernel-traits",
+    "description": "Symfony kernel traits",
+    "license": "MIT",
     "authors": [
         {
             "name": "Benjamin Doherty",
